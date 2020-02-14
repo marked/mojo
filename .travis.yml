@@ -1,3 +1,5 @@
+language:
+  - perl
 os:
   - linux
 dist:
