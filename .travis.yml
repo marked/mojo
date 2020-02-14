@@ -1,5 +1,6 @@
 language: perl
 dist: bionic
+perl: "5.30"
 env:
   global:
     - HARNESS_OPTIONS=j9
