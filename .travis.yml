@@ -1,9 +1,5 @@
-language:
-  - perl
-os:
-  - linux
-dist:
-  - bionic
+language: perl
+dist: bionic
 env:
   global:
     - HARNESS_OPTIONS=j9
